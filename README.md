@@ -9,3 +9,5 @@ A sample chat bot app for practice
 4. Integrate the vector database and the language model.
 
 ## How to generate word embeddings using word2vec
+
+1. Generate the model using your custom corpus of data or use a sample prebuilt model from Google or FastText.
