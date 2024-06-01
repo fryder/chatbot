@@ -7,3 +7,5 @@ A sample chat bot app for practice
 2. Create a vector index for your chatbot.
 3. Train a language model using a large text corpus of your choice. For e.g, for a news chatbot, you can feed in news data.
 4. Integrate the vector database and the language model.
+
+## How to generate word embeddings using word2vec
